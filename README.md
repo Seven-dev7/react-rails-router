@@ -12,6 +12,7 @@ Things you may want to cover:
  ` Webpack`
  ` React`
  ` React-router`
+ ` Yarn `
 * System dependencies
 
 * Configuration
