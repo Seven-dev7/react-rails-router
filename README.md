@@ -6,13 +6,18 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+ ` Ruby 2.3.3`
+ ` Rails 5.1.7`
+ ` PostgreSql`
+ ` Webpack`
+ ` React`
+ ` React-router`
 * System dependencies
 
 * Configuration
 
 * Database creation
-
+    ` rails db:create`
 * Database initialization
 
 * How to run the test suite
